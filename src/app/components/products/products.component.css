@@ -15,7 +15,13 @@
   }
   .sumar{
     width: 100%;
+    bottom: 0px;
   }
   .precio{
     font-size: 1.5em;
   }
+ .mat-card{
+  display: flex;
+  flex-direction: column;
+ justify-content: flex-end;
+ }
